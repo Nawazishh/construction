@@ -1,0 +1,59 @@
+.bg-img {
+     background-image: url("https://cdn.pixabay.com/photo/2020/07/30/21/38/construction-5451347_960_720.jpg");
+     height: 100vh;
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-position: center;
+}
+
+.nav-linkk {
+     font-size: large;
+     font-family: Arial, Helvetica, sans-serif;
+     color: white;
+}
+
+@media only screen and (max-width: 1000px) {
+     .bg-img-map {
+          display: none;
+     }
+}
+
+.ist-slide-content:hover {
+     opacity: 0.7 !important;
+}
+
+.nd-slide-content:hover {
+     opacity: 0.6 !important;
+}
+
+.rd-slide-content:hover {
+     opacity: 0.6 !important;
+}
+
+.th-slide-content:hover {
+     opacity: 0.6 !important;
+}
+
+.te-slide-content:hover {
+     opacity: 0.6 !important;
+}
+
+.ist-slide-content {
+     border-left: 0.1px solid white !important;
+}
+
+.nd-slide-content {
+     border-left: 0.1px solid white !important;
+}
+
+.rd-slide-content {
+     border-left: 0.1px solid white !important;
+}
+
+.th-slide-content {
+     border-left: 0.1px solid white !important;
+}
+
+.te-slide-content {
+     border-left: 0.1px solid white !important;
+}

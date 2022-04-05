@@ -1,0 +1,12 @@
+/* @media only screen and (max-width: 600px) {
+    .dis-in-line{
+        display: flex !important;
+        flex-direction: row !important;
+        background-color: red;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        padding: 10px !important;
+        
+    }
+ 
+} */
